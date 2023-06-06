@@ -91,10 +91,3 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
-
-.background-image {
-  background-image: url(src/pinksky.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh;
-}
